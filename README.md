@@ -1,4 +1,4 @@
-# DCC024 - Pesquisa Operacional
+# DCC024 - Linguagens de Programação
 
 [Link](http://homepages.dcc.ufmg.br/~fernando/classes/dcc024/) para a disciplina.
 
@@ -10,4 +10,4 @@
 - Sobre a política de [integridade](http://homepages.dcc.ufmg.br/~fernando/classes/dcc024/integrity/) acadêmica.
 - Consulte sua [nota](http://homepages.dcc.ufmg.br/~fernando/classes/dcc024/grades/) computada até agora.
 
-# [Notas (Yuri)](notas.html)
+# [Notas (Yuri)](notas)

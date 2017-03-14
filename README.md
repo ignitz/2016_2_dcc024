@@ -11,3 +11,9 @@
 - Consulte sua [nota](http://homepages.dcc.ufmg.br/~fernando/classes/dcc024/grades/) computada até agora.
 
 # [Notas (Yuri)](notas)
+
+- Nas notas recomendo utilizar o pacote [Markdown Preview Enhanced](https://atom.io/packages/markdown-preview-enhanced) do [Atom](https://atom.io/) pois nele tem suporte ao [LaTeX](https://pt.wikipedia.org/wiki/LaTeX) para fórmulas matemáticas muito utilizadas no Cálculo Lambda.
+- Use o MathJax, por padrão está vindo o KaTeX
+- Pelo Atom é possível exportar em HTML e PDF.
+
+![Example](Markdown_example.png)
